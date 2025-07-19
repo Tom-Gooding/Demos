@@ -38,9 +38,10 @@ Then:
 Then:
 - git push origin "branch name" (to push the branch)  
 or
-- git push origin or git push origin main (will push updates directly into main branch.)...not advised and should instead push branch and then approve changes upon review.
+- git push origin or git push origin main (will push updates directly into main branch.)...not advised and should instead push branch and then approve changes upon review.  
+  
+  ## SQL walkthrough (official start)
+    
+    notes:
 
-
-## testing to see if the new branch gets pushed via terminal 
-
-# Okay that seemed to work...go ahead and delete stuff
+    **finished for the day**
