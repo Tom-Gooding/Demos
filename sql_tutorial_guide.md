@@ -43,3 +43,5 @@ or
   ## SQL walkthrough (official start)
     
     notes:
+
+    **finished for the day**
