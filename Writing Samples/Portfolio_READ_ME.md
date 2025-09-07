@@ -14,7 +14,7 @@ This folder contains samples of grants I have written that have been awarded.
 ## Publications_Papers 
 This folder contains samples of professional writing such as peer-reviewed journal publications, my dissertation, and select papers from graduate-level college courses. 
 
-For questions or to request further samples of writing, please contact me at:
+For questions regarding the samples of writing herein, or to request further samples of writing, please contact me at:
 Tom.Gooding18@gmail.com
 
 Warm regards, 
