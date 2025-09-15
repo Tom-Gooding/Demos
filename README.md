@@ -1,5 +1,5 @@
-# Demos
-The 'Demos' repository is a repository to hold:
+# Welcome 👋
+This Portfolio is a repository to hold samples of work I've completed in my professional career and during my time in academia. 
 
 ## 1) Professional Writing Samples.
 This repository contains samples of writing including: 
