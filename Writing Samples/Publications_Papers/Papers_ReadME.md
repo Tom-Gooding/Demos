@@ -21,6 +21,7 @@ Accordingly, I created this SOP document to inform other members of the OSMG lab
 
 ## Clinical Pearl of Practice- Voodoo floss bands*. 
 A clinical pearl can be defined as "a concise, practical piece of medical advice or insight that is based on clinical experience and observation." In other words, clinical pearls are tips & tricks that clinical medical professional rely on that have proven to be effective for certain scenarios, but lack rigorous peer-reviewed evidence. Voodoo flossing is a technique I learned from Dr. Kelly Starrett's book [*Becoming a Supple Leopard*](https://thereadystate.com/product/becoming-a-supple-leopard-2nd-edition/) which I used as a clinical athletic trainer to treat joint-related issues—primarily at the knee, elbow, and ankle. Accordingly, I wrote this paper to describe the Voodoo 'flossing' technique in clinical terms and to attempt to explain the theoretical physiological principles for how Voodoo flossing might be used to treat elbow epicondylitis. 
+![Voodoo Bands](Writing Samples/samples_figures/voodoo_band.png)
 
 **Bottom line:** Voodoo flossing at the elbow promotes induces ischemia and compression forces to breakup myofascial adhesions and, upon cessation, promotes a 'rebound' effect of increased blood flow to the site of inflammation including oxygen, nutrients, and chemical mediators to promote tissue healing. 
 
