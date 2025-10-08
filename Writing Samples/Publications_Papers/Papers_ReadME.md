@@ -19,7 +19,7 @@ During my work with the Occupational Sleep Medicine Group (OSMG) at Washington S
 
 Accordingly, I created this SOP document to inform other members of the OSMG lab, and other members on the TriSafe research team, on how to use ATLAS.ti—including personal tips and major pitfalls to avoid.
 
-## Clinical Pearl of Practice- Voodoo floss bands*. 
+## Clinical Pearl of Practice- Voodoo floss bands* 
 A clinical pearl can be defined as "a concise, practical piece of medical advice or insight that is based on clinical experience and observation." In other words, clinical pearls are tips & tricks that clinical medical professional rely on that have proven to be effective for certain scenarios, but lack rigorous peer-reviewed evidence. Voodoo flossing is a technique I learned from Dr. Kelly Starrett's book [*Becoming a Supple Leopard*](https://thereadystate.com/product/becoming-a-supple-leopard-2nd-edition/) which I used as a clinical athletic trainer to treat joint-related issues—primarily at the knee, elbow, and ankle. Accordingly, I wrote this paper to describe the Voodoo 'flossing' technique in clinical terms and to attempt to explain the theoretical physiological principles for how Voodoo flossing might be used to treat elbow epicondylitis. 
 ![Voodoo Bands](https://raw.githubusercontent.com/Tom-Gooding/Portfolio/main/Writing%20Samples/samples_figures/voodoo_band.png)
 
