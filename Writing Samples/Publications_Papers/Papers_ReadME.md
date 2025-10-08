@@ -1,6 +1,6 @@
 # Publication Papers Overview:
 
-Documents in this folder represent professional pieces I've written for peer-review publication or similar professional capacities. A brief description of each writing sample is provided below:
+Documents in this folder represent professional pieces I've written for peer-review publication or similar professional capacities. A brief description of each writing sample is provided below. **Note:** Papers with an asterisk* in their title have companion presentations under the [presentations](https://github.com/Tom-Gooding/Portfolio/tree/451d9f4c3007eec43b586d4eb52592a2314ba8ff/Writing%20Samples/Presentations) folder. 
 
 ## Dissertation
 My dissertation titled, "Overtraining through a new lens: Characterization of overreach in reacreationally active adults and the hormetic complications" was written during my doctorate in Nutrition & Exercise Physiology (Washington State University '24). Accordingly, the body of my dissertation consists of three chapters which are intended to become standalone manuscripts.
