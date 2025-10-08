@@ -21,7 +21,7 @@ This is a poster presentation I presented at the 2023 American College of Sports
 As a clinical athletic trainer (ATC), I treated an athlete for neck pain which turned out to be stage III-IV thyroid cancer. I wrote a case report about this clinical manifestation and this is the oral presentation of this case I gave at the National Athletic Trainers' Association (NATA) Symposium. 
 
 ## SLEEP 2025 Poster
-This is a poster presentation I presented at the 2025 SLEEP conference (Seattle, WA) covering how high-intensity training impacts sleep measures, including sleep regularity. Taking inspiration from ![Better Posters](https://betterposters.blogspot.com/) my poster was intended to let passersby read the key takeaways at a glance, in addition to me standing near the poster and having more in-depth conversations about the study with conference attendees. 
+This is a poster presentation I presented at the 2025 SLEEP conference (Seattle, WA) covering how high-intensity training impacts sleep measures, including sleep regularity. Taking inspiration from [Better Posters](https://betterposters.blogspot.com/) my poster was intended to let passersby read the key takeaways at a glance, in addition to me standing near the poster and having more in-depth conversations about the study with conference attendees. 
 
 
 
