@@ -1,6 +1,7 @@
 # Publication Papers Overview:
 
-Documents in this folder represent professional pieces I've written for peer-review publication or similar professional capacities. A brief description of each writing sample is provided below. **Note:** Papers with an asterisk* in their title have companion presentations under the [presentations](https://github.com/Tom-Gooding/Portfolio/tree/451d9f4c3007eec43b586d4eb52592a2314ba8ff/Writing%20Samples/Presentations) folder. 
+Documents in this folder represent professional pieces I've written for peer-review publication or similar professional capacities. A brief description of each writing sample is provided below. 
+**Note:** Papers with an asterisk* in their title have companion presentations under the [presentations](https://github.com/Tom-Gooding/Portfolio/tree/451d9f4c3007eec43b586d4eb52592a2314ba8ff/Writing%20Samples/Presentations) folder. 
 
 ## Dissertation*
 My dissertation titled, "Overtraining through a new lens: Characterization of overreach in reacreationally active adults and the hormetic complications" was written during my doctorate in Nutrition & Exercise Physiology (Washington State University '24). Accordingly, the body of my dissertation consists of three chapters which are intended to become standalone manuscripts.
@@ -19,8 +20,8 @@ During my work with the Occupational Sleep Medicine Group (OSMG) at Washington S
 Accordingly, I created this SOP document to inform other members of the OSMG lab, and other members on the TriSafe research team, on how to use ATLAS.ti—including personal tips and major pitfalls to avoid.
 
 ## Clinical Pearl of Practice- Voodoo floss bands*. 
-A clinical pearl can be defined as "a concise, practical piece of medical advice or insight that is based on clinical experience and observation." In other words, clinical pearls are tips & tricks that clinical medical professional rely on that have proven to be effective for certain scenarios, but lack rigorous peer-reviewed evidence. Voodoo flossing is a technique I learned from Dr. Kelly Starrett's book *Becoming a Supple Leopard* [book link](https://thereadystate.com/product/becoming-a-supple-leopard-2nd-edition/) which I used as a clinical athletic trainer to treat joint-related issues—primarily at the knee, elbow, and ankle. Accordingly, this paper describes the Voodoo 'flossing' technique in clinical terms and attempts to explain the theoretical physiological principles for how Voodoo flossing might be used to treat elbow epicondylitis. 
+A clinical pearl can be defined as "a concise, practical piece of medical advice or insight that is based on clinical experience and observation." In other words, clinical pearls are tips & tricks that clinical medical professional rely on that have proven to be effective for certain scenarios, but lack rigorous peer-reviewed evidence. Voodoo flossing is a technique I learned from Dr. Kelly Starrett's book [*Becoming a Supple Leopard*](https://thereadystate.com/product/becoming-a-supple-leopard-2nd-edition/) which I used as a clinical athletic trainer to treat joint-related issues—primarily at the knee, elbow, and ankle. Accordingly, this paper describes the Voodoo 'flossing' technique in clinical terms and attempts to explain the theoretical physiological principles for how Voodoo flossing might be used to treat elbow epicondylitis. 
 
-**bottom line:** Voodoo flossing at the elbow promotes induces ischemia and compression forces to breakup myofascial adhesions and, upon cessation, promotes a 'rebound' effect of increased blood flow to the site of inflammation including oxygen, nutrients, and chemical mediators to promote tissue healing. 
+**Bottom line:** Voodoo flossing at the elbow promotes induces ischemia and compression forces to breakup myofascial adhesions and, upon cessation, promotes a 'rebound' effect of increased blood flow to the site of inflammation including oxygen, nutrients, and chemical mediators to promote tissue healing. 
 
 
