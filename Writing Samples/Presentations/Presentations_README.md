@@ -9,6 +9,20 @@ The dissertation itself includes 5 chapters, with chapters 2–4 meant to serve 
 - **Chapter 2: Recreationally active adults exhibit symptoms of overtraining following a three-week lab-controlled overreaching training protocol**
     - Variables: cycling performance, maximum heart rate, heart rate recovery, peak aerobic capacity, peak lactate, and profile of mood states
 - **Chapter 3: Sleep patterns of recreationally active adults throughout a three-week high-intensity overreaching training protocol**
+    - Variables: total sleep time, cumulative sleep debt, self-reported sleepiness, self-reported fatigue, upper-respiratory illness symptoms
 - **Chapter 4: Immune-related proteome responses in recreationally active adults following a three-week overreaching training protocol: A pilot investigation**
+    - Variables: upregulated proteins (log2 fold change) post-training and post-recovery, acute-phase immune system proteins in STRING network.  
 - **Chapter 5: General discussion**
+
+## Overtraining ACSM Poster 2023
+This is a poster presentation I presented at the 2023 American College of Sports Medicine (ACSM) Symposium held in Denver, CO. The information presented included the overall study design of my dissertation and preliminary results of my dissertation research demonstrating that recreationally active adults could exhibit symptoms of overtraining following high-intensity exercise.
+
+## Rapid Fire Case Study Presentation NATA 
+As a clinical athletic trainer (ATC), I treated an athlete for neck pain which turned out to be stage III-IV thyroid cancer. I wrote a case report about this clinical manifestation and this is the oral presentation of this case I gave at the National Athletic Trainers' Association (NATA) Symposium. 
+
+## SLEEP 2025 Poster
+This is a poster presentation I presented at the 2025 SLEEP conference (Seattle, WA) covering how high-intensity training impacts sleep measures, including sleep regularity. Taking inspiration from ![Better Posters](https://betterposters.blogspot.com/) my poster was intended to let passersby read the key takeaways at a glance, in addition to me standing near the poster and having more in-depth conversations about the study with conference attendees. 
+
+
+
 
