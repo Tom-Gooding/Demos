@@ -1,9 +1,9 @@
 # Overview.
 
 Samples of my writing are organized into three folders:
-1) Presentations
-2) Grant_Proposals
-3) Publications_Papers
+1) [Presentations](https://github.com/Tom-Gooding/Portfolio/tree/a5ca0ebd081b05b1cec3d57bedcb64a8cfc6af6f/Writing%20Samples/Presentations)
+2) [Grant_Proposals](https://github.com/Tom-Gooding/Portfolio/tree/a5ca0ebd081b05b1cec3d57bedcb64a8cfc6af6f/Writing%20Samples/Grant_Proposals)
+3) [Publications_Papers](https://github.com/Tom-Gooding/Portfolio/tree/a5ca0ebd081b05b1cec3d57bedcb64a8cfc6af6f/Writing%20Samples/Publications_Papers)
 
 ## Presentations
 This folder contains professional presentations I have given at professional conferences or from lectures I've given when teaching college-level courses. 
