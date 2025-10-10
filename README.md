@@ -9,6 +9,4 @@ This repository contains samples of writing including:
 - [Peer-reviewed publications and graduate-level scientific writing samples](https://github.com/Tom-Gooding/Portfolio/tree/main/Writing%20Samples/Publications_Papers)
 
 ## 2) Data Analytics Project Samples. 
-This repository contains samples of data analytics projects I've completed using a combination of Python, SQL, Excel, and Tableau
-
-- (Coming Soon) 
+This repository contains samples of data analytics projects I've completed using a combination of Python, SQL, and Excel.
