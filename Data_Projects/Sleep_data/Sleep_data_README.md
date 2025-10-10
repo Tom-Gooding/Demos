@@ -9,7 +9,8 @@ This Jupyter notebook was used to generate figures for a conference poster prese
 
 **Skills demonstrated:** Data cleaning, data visualization, descriptive Statistics, exploratory statistical analysis. 
 
-![Exercise Performance POMS](Data_Projects/Sleep_data/sleep_data_visuals/exercise_performance_poms.png)
+![Exercise Performance POMS](https://raw.githubusercontent.com/Tom-Gooding/Portfolio/eefe77fd5e4d7a69fc6742f14e35f24f62099456/Data_Projects/Sleep_data/sleep_data_visuals/exercise_performance_poms.png)
+
 
 
 
